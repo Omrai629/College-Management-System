@@ -1,2 +1,2 @@
-# College-Management-System
-A College Management System with Student and Admin utilities
+# College-Management-System using Codeigniter Framework of PHP
+A College Management System with Student and Admin functionalities
